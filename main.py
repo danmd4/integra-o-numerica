@@ -3,7 +3,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Constante eletrostática (em unidades SI)
 k = 8.9875517923e9  # N·m²/C²
 
 def densidade_linear_uniforme(x):
